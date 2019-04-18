@@ -11,11 +11,11 @@ def first_element(array)
 end
 
 def third_element(array)
-	array[3]
+	array[2]
 end
 
 def last_element(array)
-	array[5]
+	array[-1]
 end
 
 def first_element_with_array_methods(array)
